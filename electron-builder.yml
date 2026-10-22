@@ -1,0 +1,56 @@
+appId: ru.cryndel.launcher
+productName: Cryndel Launcher
+copyright: Copyright © Cryndel
+directories:
+  output: dist
+  buildResources: assets
+files:
+  - electron/**/*
+  - renderer/**/*
+  - assets/**/*
+  - images/**/*
+  - examples/plugins/*.zip
+  - package.json
+extraResources:
+  - from: resources
+    to: resources
+  - from: muzick
+    to: muzick
+extraMetadata:
+  name: cryndel-launcher
+win:
+  icon: assets/icon.ico
+  target:
+    - target: nsis
+      arch: [x64]
+    - target: portable
+      arch: [x64]
+  artifactName: ${productName}-${version}-${os}-${arch}.${ext}
+  requestedExecutionLevel: asInvoker
+  verifyUpdateCodeSignature: false
+linux:
+  icon: assets/logo.png
+  target:
+    - target: AppImage
+      arch: [x64]
+    - target: deb
+      arch: [x64]
+  artifactName: ${productName}-${version}-${os}-${arch}.${ext}
+  category: Game
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  installerIcon: assets/icon.ico
+  uninstallerIcon: assets/icon.ico
+  language: 1049
+  installerLanguages:
+    - ru_RU
+  displayLanguageSelector: false
+  license: LICENSE.ru.rtf
+  include: nsis/installer.nsh
+  artifactName: ${productName}-${version}-Установщик.${ext}
+portable:
+  artifactName: ${productName}-${version}-Portable.${ext}
+publish: null

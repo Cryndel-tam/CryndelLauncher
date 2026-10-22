@@ -1,0 +1,722 @@
+[2026-10-20T12:33:48.906Z] [INFO] running storage migrations
+[2026-10-20T12:33:49.200Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T12:33:49.369Z] [INFO] Cryndel kernel ready
+[2026-10-20T12:34:07.654Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"sodium-fabric-0.6.13+mc1.21.4.jar"}
+[2026-10-20T12:34:08.061Z] [INFO] placed mod {"instanceId":"i-67b54ce9","filename":"sodium-fabric-0.6.13+mc1.21.4.jar"}
+[2026-10-20T12:34:10.168Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"lithium-fabric-0.15.3+mc1.21.4.jar"}
+[2026-10-20T12:34:10.492Z] [WARN] build mod install failed {"slug":"lithium","message":"ENOENT: no such file or directory, lstat 'C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\cache\\mods\\b8b541c0e968571c\\lithium-fabric-0.15.3+mc1.21.4.jar.part'"}
+[2026-10-20T12:34:11.967Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"ferritecore-7.1.3-fabric.jar"}
+[2026-10-20T12:34:12.080Z] [INFO] placed mod {"instanceId":"i-67b54ce9","filename":"ferritecore-7.1.3-fabric.jar"}
+[2026-10-20T12:34:17.143Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"sodium-fabric-0.6.13+mc1.21.4.jar"}
+[2026-10-20T12:34:17.786Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"voicechat-fabric-1.21.4-2.6.24.jar"}
+[2026-10-20T12:34:17.908Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"lithium-fabric-0.15.3+mc1.21.4.jar"}
+[2026-10-20T12:34:18.091Z] [WARN] build mod install failed {"slug":"simple-voice-chat","message":"ENOENT: no such file or directory, lstat 'C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\cache\\mods\\3bcfdc08c3cdd6f9\\voicechat-fabric-1.21.4-2.6.24.jar.part'"}
+[2026-10-20T12:34:20.281Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"sodium-fabric-0.6.13+mc1.21.4.jar"}
+[2026-10-20T12:34:20.837Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"ferritecore-7.1.3-fabric.jar"}
+[2026-10-20T12:34:20.931Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"xaerominimap-fabric-1.21.4-26.5.0.jar"}
+[2026-10-20T12:34:21.264Z] [INFO] placed mod {"instanceId":"i-67b54ce9","filename":"xaerominimap-fabric-1.21.4-26.5.0.jar"}
+[2026-10-20T12:34:23.292Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"lithium-fabric-0.15.3+mc1.21.4.jar"}
+[2026-10-20T12:34:23.761Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"voicechat-fabric-1.21.4-2.6.24.jar"}
+[2026-10-20T12:34:26.121Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"fabric-api-0.119.4+1.21.4.jar"}
+[2026-10-20T12:34:27.147Z] [WARN] build mod install failed {"slug":"xaeros-minimap","message":"ENOENT: no such file or directory, lstat 'C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\cache\\mods\\16b679f6a42549ca\\fabric-api-0.119.4+1.21.4.jar.part'"}
+[2026-10-20T12:34:27.216Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"ferritecore-7.1.3-fabric.jar"}
+[2026-10-20T12:34:28.098Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"xaerominimap-fabric-1.21.4-26.5.0.jar"}
+[2026-10-20T12:34:30.339Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"xaeroworldmap-fabric-1.21.4-1.46.0.jar"}
+[2026-10-20T12:34:30.397Z] [INFO] placed mod {"instanceId":"i-67b54ce9","filename":"xaeroworldmap-fabric-1.21.4-1.46.0.jar"}
+[2026-10-20T12:34:30.842Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"voicechat-fabric-1.21.4-2.6.24.jar"}
+[2026-10-20T12:34:31.215Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"fabric-api-0.119.4+1.21.4.jar"}
+[2026-10-20T12:34:33.070Z] [WARN] build mod install failed {"slug":"xaeros-world-map","message":"Source and destination must not be the same."}
+[2026-10-20T12:34:33.477Z] [INFO] placed mod {"instanceId":"i-67b54ce9","filename":"fabric-api-0.119.4+1.21.4.jar"}
+[2026-10-20T12:34:33.899Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"xaerominimap-fabric-1.21.4-26.5.0.jar"}
+[2026-10-20T12:34:34.324Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"xaeroworldmap-fabric-1.21.4-1.46.0.jar"}
+[2026-10-20T12:34:37.809Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"fabric-api-0.119.4+1.21.4.jar"}
+[2026-10-20T12:34:38.189Z] [WARN] build mod install failed {"slug":"xaeros-world-map","message":"Source and destination must not be the same."}
+[2026-10-20T12:34:39.008Z] [WARN] build mod install failed {"slug":"emotecraft","message":"ENOENT: no such file or directory, lstat 'C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\cache\\mods\\4c0b18bf1d182ee7\\emotecraft-fabric-for-MC1.21.4-2.5.8.jar.part'"}
+[2026-10-20T12:34:39.012Z] [INFO] placed mod {"instanceId":"i-6fbab528","filename":"emotecraft-fabric-for-MC1.21.4-2.5.8.jar"}
+[2026-10-20T12:34:40.777Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"xaeroworldmap-fabric-1.21.4-1.46.0.jar"}
+[2026-10-20T12:34:41.224Z] [INFO] placed mod {"instanceId":"i-e0e6be78","filename":"emotecraft-fabric-for-MC1.21.4-2.5.8.jar"}
+[2026-10-20T12:34:41.752Z] [WARN] build mod install failed {"slug":"emotecraft","message":"Source and destination must not be the same."}
+[2026-10-20T12:34:43.310Z] [WARN] build mod install failed {"slug":"xaeros-world-map","message":"Source and destination must not be the same."}
+[2026-10-20T12:34:43.706Z] [WARN] build mod install failed {"slug":"emotecraft","message":"Source and destination must not be the same."}
+[2026-10-20T12:34:45.106Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"emotecraft-fabric-for-MC1.21.4-2.5.8.jar"}
+[2026-10-20T12:34:45.822Z] [WARN] build mod install failed {"slug":"emotecraft","message":"Source and destination must not be the same."}
+[2026-10-20T12:37:00.055Z] [INFO] placed mod {"instanceId":"i-4cb2b156","filename":"Fabulously.Optimized-v8.2.0.mrpack"}
+[2026-10-20T12:42:56.257Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"fabric-api-0.119.4+1.21.4.jar"}
+[2026-10-20T13:11:18.180Z] [INFO] running storage migrations
+[2026-10-20T13:11:18.586Z] [INFO] Cryndel kernel ready
+[2026-10-20T13:11:18.446Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T13:13:29.411Z] [INFO] temurin installed {"exe":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","major":21}
+[2026-10-20T13:14:11.365Z] [INFO] placed mod {"instanceId":"i-d9366d15","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-20T16:21:24.293Z] [INFO] spawning minecraft {"instanceId":"i-84149b1f","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.minecraft.client.main.Main"}
+[2026-10-20T16:25:21.364Z] [INFO] running storage migrations
+[2026-10-20T16:25:21.863Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T16:25:22.213Z] [INFO] Cryndel kernel ready
+[2026-10-20T19:05:43.833Z] [INFO] running storage migrations
+[2026-10-20T19:05:44.042Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T19:05:44.146Z] [INFO] Cryndel kernel ready
+[2026-10-20T19:43:51.239Z] [INFO] running storage migrations
+[2026-10-20T19:43:51.500Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T19:43:51.612Z] [INFO] Cryndel kernel ready
+[2026-10-20T19:47:09.319Z] [INFO] fabric profile written {"id":"fabric-loader-0.19.5-1.21.11"}
+[2026-10-20T19:47:49.298Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-20T21:15:03.292Z] [INFO] fabric profile written {"id":"fabric-loader-0.19.5-1.21.4"}
+[2026-10-20T21:17:52.389Z] [INFO] running storage migrations
+[2026-10-20T21:17:52.602Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-20T21:17:52.720Z] [INFO] Cryndel kernel ready
+[2026-10-20T22:01:36.215Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-20T22:02:03.068Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T06:09:30.288Z] [WARN] fabric loader-for-game failed {"mcVersion":"1.21.11","message":"getaddrinfo ENOTFOUND meta.fabricmc.net"}
+[2026-10-21T06:09:32.324Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T06:53:05.032Z] [INFO] running storage migrations
+[2026-10-21T06:53:05.289Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T06:53:05.400Z] [INFO] Cryndel kernel ready
+[2026-10-21T06:58:27.359Z] [INFO] spawning minecraft {"instanceId":"i-674109cf","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T07:02:57.734Z] [INFO] spawning minecraft {"instanceId":"i-674109cf","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T07:03:51.676Z] [INFO] spawning minecraft {"instanceId":"i-c6cee019","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T07:10:29.370Z] [INFO] running storage migrations
+[2026-10-21T07:10:29.702Z] [INFO] Cryndel kernel ready
+[2026-10-21T07:10:29.591Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T07:18:53.573Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-21T07:18:54.311Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T07:19:48.540Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"cicada-lib-0.14.3+1.21.9-1.21.10.jar"}
+[2026-10-21T07:19:49.286Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T07:54:35.737Z] [INFO] backup created {"id":"b-e685b231c9","instanceId":"i-674109cf"}
+[2026-10-21T08:44:37.493Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"entityculling-fabric-1.11.3-mc1.21.11.jar"}
+[2026-10-21T08:44:38.347Z] [INFO] placed mod {"instanceId":"i-674109cf","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T09:40:52.845Z] [INFO] spawning minecraft {"instanceId":"i-674109cf","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T10:19:46.414Z] [INFO] running storage migrations
+[2026-10-21T10:19:46.688Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:19:46.822Z] [INFO] Cryndel kernel ready
+[2026-10-21T10:19:46.703Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T10:38:32.900Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:38:34.387Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:38:35.484Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:41:57.817Z] [INFO] running storage migrations
+[2026-10-21T10:41:58.017Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:41:58.134Z] [INFO] Cryndel kernel ready
+[2026-10-21T10:41:58.030Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T10:42:42.772Z] [INFO] running storage migrations
+[2026-10-21T10:42:43.070Z] [INFO] Cryndel kernel ready
+[2026-10-21T10:42:42.956Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:42:42.968Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T10:43:55.286Z] [INFO] running storage migrations
+[2026-10-21T10:43:55.468Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T10:43:55.587Z] [INFO] Cryndel kernel ready
+[2026-10-21T10:43:55.481Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:20:59.605Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T11:22:07.228Z] [INFO] running storage migrations
+[2026-10-21T11:22:07.445Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T11:22:07.459Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:22:07.583Z] [INFO] Cryndel kernel ready
+[2026-10-21T11:22:33.549Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T11:27:59.254Z] [INFO] running storage migrations
+[2026-10-21T11:27:59.460Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T11:27:59.574Z] [INFO] Cryndel kernel ready
+[2026-10-21T11:27:59.472Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:28:26.582Z] [INFO] spawning minecraft {"instanceId":"i-2b17accb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T11:42:36.477Z] [INFO] running storage migrations
+[2026-10-21T11:42:36.749Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T11:42:36.877Z] [INFO] Cryndel kernel ready
+[2026-10-21T11:42:36.764Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:45:26.768Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-21T11:45:34.008Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-21T11:45:35.411Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"sodium-fabric-0.8.14+mc1.21.11.jar"}
+[2026-10-21T11:46:05.000Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"lithium-fabric-0.21.4+mc1.21.11.jar"}
+[2026-10-21T11:46:11.940Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"PatPat-1.3.1+1.21.11+fabric.jar"}
+[2026-10-21T11:46:12.672Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:46:17.922Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-21T11:46:19.687Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-21T11:46:20.499Z] [INFO] placed mod {"instanceId":"i-2b17accb","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:46:59.482Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-21T11:47:00.858Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:47:02.339Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fadeless-2.0.7-1.21.11.jar"}
+[2026-10-21T11:47:03.258Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:47:07.150Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"voicechat-fabric-1.21.11-2.6.24.jar"}
+[2026-10-21T11:47:07.928Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-21T11:47:08.712Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-21T11:47:09.460Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:47:10.425Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-21T11:47:11.190Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:47:13.175Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"xaeroworldmap-fabric-1.21.11-1.47.0.jar"}
+[2026-10-21T11:47:13.912Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T11:47:15.001Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-21T11:47:15.618Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"sodium-fabric-0.8.14+mc1.21.11.jar"}
+[2026-10-21T11:47:22.697Z] [INFO] spawning minecraft {"instanceId":"i-53f718a4","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T11:47:49.328Z] [INFO] spawning minecraft {"instanceId":"i-53f718a4","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T11:52:32.106Z] [INFO] running storage migrations
+[2026-10-21T11:52:32.340Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T11:52:32.354Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:52:32.466Z] [INFO] Cryndel kernel ready
+[2026-10-21T11:53:00.801Z] [INFO] running storage migrations
+[2026-10-21T11:53:01.016Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T11:53:01.029Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T11:53:01.129Z] [INFO] Cryndel kernel ready
+[2026-10-21T12:09:37.342Z] [INFO] running storage migrations
+[2026-10-21T12:09:37.549Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T12:09:37.667Z] [INFO] Cryndel kernel ready
+[2026-10-21T12:09:37.561Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T12:29:11.878Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T12:29:13.763Z] [INFO] placed mod {"instanceId":"i-53f718a4","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T12:29:31.036Z] [INFO] backup created {"id":"b-c7be56e3d2","instanceId":"i-53f718a4"}
+[2026-10-21T12:30:37.552Z] [INFO] spawning minecraft {"instanceId":"i-53f718a4","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T12:30:59.630Z] [INFO] running storage migrations
+[2026-10-21T12:30:59.824Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T12:30:59.837Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T12:30:59.943Z] [INFO] Cryndel kernel ready
+[2026-10-21T13:57:53.815Z] [INFO] placed mod {"instanceId":"i-c6cee019","filename":"modmenu-17.0.1.jar"}
+[2026-10-21T13:57:54.541Z] [INFO] placed mod {"instanceId":"i-c6cee019","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T13:57:55.774Z] [INFO] placed mod {"instanceId":"i-c6cee019","filename":"placeholder-api-2.8.2+1.21.10.jar"}
+[2026-10-21T16:02:02.395Z] [INFO] running storage migrations
+[2026-10-21T16:02:02.517Z] [ERROR] boot failed {"message":"popups.setWindowOpenHandler is not a function","stack":"TypeError: popups.setWindowOpenHandler is not a function\n    at PaneSmith.create (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\window-manager.js:45:12)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\main.js:138:28)"}
+[2026-10-21T16:04:23.571Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T16:14:14.394Z] [INFO] running storage migrations
+[2026-10-21T16:14:14.500Z] [ERROR] boot failed {"message":"popups.setWindowOpenHandler is not a function","stack":"TypeError: popups.setWindowOpenHandler is not a function\n    at PaneSmith.create (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\window-manager.js:45:12)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\main.js:138:28)"}
+[2026-10-21T16:24:58.089Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-21T16:24:59.811Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T16:25:00.925Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fadeless-2.0.7-1.21.11.jar"}
+[2026-10-21T16:25:01.717Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T16:25:02.953Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"voicechat-fabric-1.21.11-2.6.24.jar"}
+[2026-10-21T16:25:04.070Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-21T16:25:05.171Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-21T16:25:06.245Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T16:25:07.159Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-21T16:25:07.913Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T16:25:09.047Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"xaeroworldmap-fabric-1.21.11-1.47.0.jar"}
+[2026-10-21T16:25:10.209Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T16:25:11.863Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-21T16:25:12.471Z] [INFO] placed mod {"instanceId":"i-8e2949bc","filename":"sodium-fabric-0.8.14+mc1.21.11.jar"}
+[2026-10-21T16:25:25.609Z] [INFO] spawning minecraft {"instanceId":"i-8e2949bc","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-21T16:28:35.681Z] [INFO] running storage migrations
+[2026-10-21T16:28:35.787Z] [ERROR] boot failed {"message":"popups.setWindowOpenHandler is not a function","stack":"TypeError: popups.setWindowOpenHandler is not a function\n    at PaneSmith.create (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\window-manager.js:45:12)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\main.js:138:28)"}
+[2026-10-21T16:35:04.328Z] [INFO] placed mod {"instanceId":"i-fb7432af","filename":"notenoughanimations-fabric-1.12.6-mc1.21.11.jar"}
+[2026-10-21T16:35:05.086Z] [INFO] placed mod {"instanceId":"i-fb7432af","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-21T17:19:19.964Z] [INFO] running storage migrations
+[2026-10-21T17:19:20.081Z] [ERROR] boot failed {"message":"popups.setWindowOpenHandler is not a function","stack":"TypeError: popups.setWindowOpenHandler is not a function\n    at PaneSmith.create (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\window-manager.js:45:12)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\Downloads\\кринлаунчер\\CryndelLaunch\\extracted\\workspace\\electron\\main.js:138:28)"}
+[2026-10-21T18:51:56.189Z] [INFO] running storage migrations
+[2026-10-21T18:51:56.432Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-21T18:51:56.448Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-21T18:51:56.593Z] [INFO] Cryndel kernel ready
+[2026-10-22T04:51:05.208Z] [INFO] running storage migrations
+[2026-10-22T04:51:05.597Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T04:51:05.553Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T04:51:05.736Z] [INFO] Cryndel kernel ready
+[2026-10-22T05:05:42.251Z] [INFO] inbox saved {"dest":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\CL-Downloads\\Fabulously.Optimized-v13.3.0-mr.1.mrpack"}
+[2026-10-22T05:05:42.718Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"BetterGrassify-1.8.7+fabric.1.21.11.jar"}
+[2026-10-22T05:05:43.005Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"ConfigManager-fabric-1.21.x-1.1.1.jar"}
+[2026-10-22T05:05:44.662Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"CrashAssistant-fabric-1.21.5-1.21.11-1.11.12.jar"}
+[2026-10-22T05:05:45.088Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"}
+[2026-10-22T05:05:45.616Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"ImmediatelyFast-Fabric-1.14.3+1.21.11.jar"}
+[2026-10-22T05:05:46.375Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"Ixeris-4.6.5+1.21.11-fabric.jar"}
+[2026-10-22T05:05:46.819Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"NoChatReports-FABRIC-1.21.11-v2.18.0.jar"}
+[2026-10-22T05:05:47.066Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"animatica-0.6.1+1.21.5.jar"}
+[2026-10-22T05:05:47.414Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"bbe-fabric-1.3.4+mc1.21.11.jar"}
+[2026-10-22T05:05:47.651Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"bettermounthud-1.2.6.jar"}
+[2026-10-22T05:05:48.117Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"cape-provider-5.1.0.jar"}
+[2026-10-22T05:05:48.702Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"cloth-config-21.11.153-fabric.jar"}
+[2026-10-22T05:05:49.204Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"continuity-3.0.1-beta.1+1.21.11.jar"}
+[2026-10-22T05:05:51.512Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"controlify-3.0.1+lts+1.21.11-fabric.jar"}
+[2026-10-22T05:05:51.788Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"cwb-fabric-3.0.0-build.14+mc1.21.11.jar"}
+[2026-10-22T05:05:52.304Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"debugify-1.21.11+1.1.jar"}
+[2026-10-22T05:05:52.786Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar"}
+[2026-10-22T05:05:53.300Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"e4mc-fabric-6.2.1.jar"}
+[2026-10-22T05:05:53.795Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"entity_model_features-3.2.4-1.21.11-fabric.jar"}
+[2026-10-22T05:05:54.296Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"entity_texture_features_1.21.11-fabric-7.1.jar"}
+[2026-10-22T05:05:55.021Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"entityculling-fabric-1.10.5-mc1.21.11.jar"}
+[2026-10-22T05:05:55.034Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-22T05:05:57.049Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"}
+[2026-10-22T05:05:57.299Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"fabrishot-1.16.4.jar"}
+[2026-10-22T05:05:57.714Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"fastquit-3.1.3+mc1.21.11.jar"}
+[2026-10-22T05:05:57.988Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"ferritecore-8.2.0-fabric.jar"}
+[2026-10-22T05:05:59.074Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"iris-fabric-1.10.7+mc1.21.11.jar"}
+[2026-10-22T05:05:59.753Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"lambdynamiclights-4.9.1+1.21.11.jar"}
+[2026-10-22T05:06:00.476Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"language-reload-1.7.7+1.21.11.jar"}
+[2026-10-22T05:06:00.498Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"lithium-fabric-0.21.4+mc1.21.11.jar"}
+[2026-10-22T05:06:00.759Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"main-menu-credits-1.2.0.jar"}
+[2026-10-22T05:06:01.171Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"mixintrace-1.1.1+1.17.jar"}
+[2026-10-22T05:06:01.661Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"modernfix-5.26.3-build.1.jar"}
+[2026-10-22T05:06:02.124Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"modmenu-17.0.0.jar"}
+[2026-10-22T05:06:02.341Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"morechathistory-1.3.1.jar"}
+[2026-10-22T05:06:02.824Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"moreculling-fabric-1.21.11-1.6.2.jar"}
+[2026-10-22T05:06:03.286Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"optigui-2.3.0-beta.10+1.21.9.jar"}
+[2026-10-22T05:06:03.672Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"paginatedadvancements-2.8.0+1.21.11.jar"}
+[2026-10-22T05:06:04.846Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"polytone-1.21.11-6.3.2-fabric.jar"}
+[2026-10-22T05:06:05.105Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"puzzle-fabric-2.3.0+1.21.11.jar"}
+[2026-10-22T05:06:05.540Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"reeses-sodium-options-fabric-2.2.3+mc1.21.11.jar"}
+[2026-10-22T05:06:05.817Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"rrlsFabric-5.1.15+mc.1.21.11.jar"}
+[2026-10-22T05:06:06.634Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"skyboxify-3.3.1+1.21.11-fabric.jar"}
+[2026-10-22T05:06:06.934Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"sodium-extra-fabric-0.8.3+mc1.21.11.jar"}
+[2026-10-22T05:06:07.630Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"sodium-fabric-0.8.12+mc1.21.11.jar"}
+[2026-10-22T05:06:07.893Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"sodium-shadowy-path-blocks-fabric-6.0.0.jar"}
+[2026-10-22T05:06:08.311Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"}
+[2026-10-22T05:06:08.677Z] [INFO] placed mod {"instanceId":"i-d788681c","filename":"zoomify-2.15.2+1.21.11.jar"}
+[2026-10-22T05:06:17.252Z] [INFO] spawning minecraft {"instanceId":"i-d788681c","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T05:38:57.683Z] [INFO] running storage migrations
+[2026-10-22T05:38:57.914Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:38:57.928Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T05:38:58.049Z] [INFO] Cryndel kernel ready
+[2026-10-22T05:39:12.918Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:39:27.923Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:39:42.938Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:39:57.955Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:40:12.964Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:40:27.978Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:40:42.984Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:40:57.992Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T05:41:13.010Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T06:04:05.329Z] [INFO] running storage migrations
+[2026-10-22T06:04:05.534Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T06:04:05.651Z] [INFO] Cryndel kernel ready
+[2026-10-22T06:04:05.547Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T06:04:20.546Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T06:04:35.547Z] [DEBUG] discord rpc skipped {"message":"Could not connect"}
+[2026-10-22T06:35:40.783Z] [INFO] running storage migrations
+[2026-10-22T06:36:38.891Z] [INFO] running storage migrations
+[2026-10-22T06:36:39.132Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T06:36:39.152Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T06:36:39.293Z] [INFO] Cryndel kernel ready
+[2026-10-22T06:37:07.007Z] [INFO] running storage migrations
+[2026-10-22T06:37:36.420Z] [INFO] running storage migrations
+[2026-10-22T06:37:36.613Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T06:37:36.625Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T06:37:36.735Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:27:42.464Z] [INFO] running storage migrations
+[2026-10-22T07:27:42.701Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:27:42.872Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:27:42.717Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:28:12.807Z] [INFO] running storage migrations
+[2026-10-22T07:28:13.016Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:28:13.031Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:28:13.157Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:29:11.054Z] [INFO] running storage migrations
+[2026-10-22T07:29:11.277Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:29:11.262Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:29:11.395Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:39:44.070Z] [INFO] running storage migrations
+[2026-10-22T07:39:44.355Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:39:44.487Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:39:44.373Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:48:17.260Z] [INFO] running storage migrations
+[2026-10-22T07:48:17.504Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:48:17.664Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:48:17.520Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:48:19.515Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:48:27.541Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:48:47.556Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:49:47.569Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:50:47.571Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:51:47.579Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:52:47.586Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:53:47.589Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:53:52.363Z] [INFO] running storage migrations
+[2026-10-22T07:53:52.565Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:53:52.578Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T07:53:52.697Z] [INFO] Cryndel kernel ready
+[2026-10-22T07:53:54.569Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:54:02.574Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:54:22.584Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:55:22.594Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:56:22.604Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:57:22.617Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:57:48.369Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-22T07:57:49.263Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-22T07:57:50.233Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"fadeless-2.0.7-1.21.11.jar"}
+[2026-10-22T07:57:52.431Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"voicechat-fabric-1.21.11-2.6.24.jar"}
+[2026-10-22T07:57:53.432Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-22T07:57:53.723Z] [INFO] spawning minecraft {"instanceId":"i-650074a1","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T07:57:54.385Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-22T07:57:56.195Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-22T07:57:57.919Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"xaeroworldmap-fabric-1.21.11-1.47.0.jar"}
+[2026-10-22T07:57:59.779Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-22T07:58:01.313Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"modmenu-17.0.1.jar"}
+[2026-10-22T07:58:03.254Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"placeholder-api-2.8.2+1.21.10.jar"}
+[2026-10-22T07:58:06.039Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"litematica-fabric-1.21.11-0.26.16.jar"}
+[2026-10-22T07:58:08.582Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"malilib-fabric-1.21.11-0.27.20.jar"}
+[2026-10-22T07:58:15.937Z] [INFO] placed mod {"instanceId":"i-650074a1","filename":"replaymod-1.21.11-2.6.28.jar"}
+[2026-10-22T07:58:22.625Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T07:59:22.638Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:00:22.644Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:01:22.655Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:02:22.657Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:03:22.674Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:04:22.687Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:05:22.701Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:06:22.710Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:07:22.711Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:08:22.713Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:09:22.720Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:10:22.730Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:11:22.733Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:12:22.736Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:13:22.750Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:14:22.760Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:15:22.773Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:16:22.785Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:17:22.790Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:18:22.800Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:19:22.807Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:20:22.818Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:21:22.834Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:22:22.845Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:23:22.853Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:24:22.866Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:25:22.877Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:26:22.880Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:27:22.894Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:28:22.896Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:29:22.907Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:30:22.919Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:31:22.931Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:32:22.934Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:33:22.947Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:34:22.962Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:35:22.976Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:36:22.984Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:37:23.000Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:38:23.009Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:39:23.022Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:40:23.027Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:41:23.035Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:42:23.051Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:43:23.056Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:44:23.073Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:45:23.078Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:46:23.078Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:47:23.089Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:48:23.106Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:49:23.114Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:50:23.126Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:51:23.142Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:52:23.152Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:53:23.161Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:54:23.165Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:55:23.170Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:56:23.184Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:57:23.194Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:58:23.199Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T08:59:23.207Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:00:23.212Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:01:23.225Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:02:23.239Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:03:23.254Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:04:23.267Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:05:23.276Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:06:23.283Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:07:23.296Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:08:23.310Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:09:23.324Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:10:23.330Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:11:23.333Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:12:23.344Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:13:23.358Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:14:23.373Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:15:23.383Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:16:23.387Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:17:23.399Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:18:23.408Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:19:23.424Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:20:23.440Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:21:23.444Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:22:23.456Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:23:23.464Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:24:23.476Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:25:23.490Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:26:23.505Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:27:23.513Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:28:23.517Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:29:23.536Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:30:23.544Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:31:23.550Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:32:23.559Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:33:23.563Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:34:23.569Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:35:23.580Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:36:23.595Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:37:23.600Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:38:23.615Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:39:23.628Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:40:23.635Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:41:23.643Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:42:23.659Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:43:23.675Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:44:23.691Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:45:23.695Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:46:23.697Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:47:23.710Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:48:23.723Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:49:23.731Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:50:23.737Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:51:23.750Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:52:23.765Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:53:23.769Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:54:23.786Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:55:23.798Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:56:23.802Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:57:23.809Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:58:23.818Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T09:59:23.834Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:00:23.842Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:01:23.857Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:02:23.863Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:03:23.877Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:04:23.895Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:05:23.906Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:06:23.921Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:07:23.930Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:08:23.934Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:09:23.938Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:10:23.941Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:11:23.947Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:12:23.950Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:13:23.968Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:14:23.974Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:15:23.989Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:16:23.996Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:17:24.012Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:18:24.020Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:19:24.034Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:20:24.037Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:21:24.041Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:22:24.055Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:23:24.067Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:24:24.069Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:25:24.080Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:26:24.083Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:27:24.088Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:28:24.103Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:29:24.113Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:30:24.123Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:31:24.127Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:32:24.130Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:33:24.134Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:34:24.145Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:35:24.148Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:36:24.152Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:37:24.165Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:38:24.174Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:39:24.190Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:40:24.204Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:41:24.207Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:42:24.209Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:43:24.224Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:44:24.234Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:45:24.234Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:46:24.239Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:47:24.253Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:48:24.260Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:49:24.271Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:50:24.275Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:51:24.292Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:52:24.304Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:53:24.316Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:54:24.323Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:55:24.337Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:56:24.339Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:57:24.351Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:58:24.358Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T10:59:24.366Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:00:24.374Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:01:24.390Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:02:24.400Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:03:24.410Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:04:24.415Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:05:24.432Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:06:24.439Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:07:24.449Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:08:24.458Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:09:24.473Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:10:24.482Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:11:24.485Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:12:24.502Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:13:24.518Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:14:24.525Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:15:24.534Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T11:17:01.033Z] [INFO] running storage migrations
+[2026-10-22T11:17:01.286Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T11:17:01.422Z] [INFO] Cryndel kernel ready
+[2026-10-22T11:20:33.258Z] [INFO] running storage migrations
+[2026-10-22T11:20:33.463Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T11:20:33.578Z] [INFO] Cryndel kernel ready
+[2026-10-22T11:38:32.954Z] [INFO] plugin cryndel-welcome {"args":["активирован, запусков:","1"]}
+[2026-10-22T11:38:40.672Z] [INFO] plugin cryndel-welcome {"args":["активирован, запусков:","2"]}
+[2026-10-22T11:41:03.116Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-22T11:41:04.448Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-22T11:41:05.764Z] [INFO] spawning minecraft {"instanceId":"i-91b62d9a","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T11:41:05.918Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"fadeless-2.0.7-1.21.11.jar"}
+[2026-10-22T11:41:09.491Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"voicechat-fabric-1.21.11-2.6.24.jar"}
+[2026-10-22T11:41:10.875Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-22T11:41:12.264Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-22T11:41:15.565Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-22T11:41:18.330Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"xaeroworldmap-fabric-1.21.11-1.47.0.jar"}
+[2026-10-22T11:41:20.933Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-22T11:41:23.167Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"modmenu-17.0.1.jar"}
+[2026-10-22T11:41:25.924Z] [INFO] placed mod {"instanceId":"i-91b62d9a","filename":"placeholder-api-2.8.2+1.21.10.jar"}
+[2026-10-22T11:48:26.294Z] [INFO] running storage migrations
+[2026-10-22T11:48:26.354Z] [INFO] plugin cryndel-welcome {"args":["активирован, запусков:","1"]}
+[2026-10-22T11:48:26.528Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T11:48:26.655Z] [INFO] Cryndel kernel ready
+[2026-10-22T13:22:36.442Z] [INFO] running storage migrations
+[2026-10-22T13:22:36.498Z] [INFO] plugin cryndel-welcome {"args":["активирован, запусков:","1"]}
+[2026-10-22T13:22:36.799Z] [INFO] Cryndel kernel ready
+[2026-10-22T13:22:36.676Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T13:25:40.370Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"Enchantment Outlines.zip"}
+[2026-10-22T13:25:54.226Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"iris-fabric-1.8.8+mc1.21.4.jar"}
+[2026-10-22T13:25:55.161Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"sodium-fabric-0.6.13+mc1.21.4.jar"}
+[2026-10-22T13:26:04.743Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"modmenu-13.0.4.jar"}
+[2026-10-22T13:26:06.205Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"placeholder-api-2.5.2+1.21.3.jar"}
+[2026-10-22T13:26:11.376Z] [INFO] placed mod {"instanceId":"i-82ef0d4b","filename":"PatPat-1.3.1+1.21.4+fabric.jar"}
+[2026-10-22T13:28:34.384Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"sodium-fabric-0.8.15-beta.1+mc1.21.11.jar"}
+[2026-10-22T13:28:35.366Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"fabric-api-0.141.6+1.21.11.jar"}
+[2026-10-22T13:28:36.448Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"fadeless-2.0.7-1.21.11.jar"}
+[2026-10-22T13:28:38.380Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"voicechat-fabric-1.21.11-2.6.24.jar"}
+[2026-10-22T13:28:40.153Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"emotecraft-fabric-for-MC1.21.11-3.2.0-b.build.163.jar"}
+[2026-10-22T13:28:41.209Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"PlayerAnimationLibFabric-1.1.11+mc.1.21.11.jar"}
+[2026-10-22T13:28:41.322Z] [INFO] spawning minecraft {"instanceId":"i-1b17a1eb","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T13:28:43.953Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"xaerominimap-fabric-1.21.11-26.6.0.jar"}
+[2026-10-22T13:28:46.063Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"xaeroworldmap-fabric-1.21.11-1.47.0.jar"}
+[2026-10-22T13:28:48.603Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"iris-fabric-1.10.8+mc1.21.11.jar"}
+[2026-10-22T13:28:50.328Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"modmenu-17.0.1.jar"}
+[2026-10-22T13:28:52.045Z] [INFO] placed mod {"instanceId":"i-1b17a1eb","filename":"placeholder-api-2.8.2+1.21.10.jar"}
+[2026-10-22T13:34:16.904Z] [INFO] plugin cryndel-welcome {"args":["выгружен"]}
+[2026-10-22T14:28:04.067Z] [INFO] running storage migrations
+[2026-10-22T14:28:04.270Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T14:28:04.391Z] [INFO] Cryndel kernel ready
+[2026-10-22T16:25:58.147Z] [INFO] running storage migrations
+[2026-10-22T16:25:58.360Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T16:25:58.468Z] [INFO] Cryndel kernel ready
+[2026-10-22T16:26:51.168Z] [INFO] published build {"target":"C:\\Users\\ASUS\\Downloads\\Моя сборка.mpcryn","name":"Моя сборка"}
+[2026-10-22T16:28:36.314Z] [INFO] spawning minecraft {"instanceId":"i-e582ae65","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T16:31:06.781Z] [INFO] running storage migrations
+[2026-10-22T16:31:06.990Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T16:31:07.090Z] [INFO] Cryndel kernel ready
+[2026-10-22T17:04:45.168Z] [INFO] spawning minecraft {"instanceId":"i-c6cee019","javaPath":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\runtime\\jdk-21\\jdk-21.0.12.1+1\\bin\\java.exe","mainClass":"net.fabricmc.loader.impl.launch.knot.KnotClient"}
+[2026-10-22T17:12:42.303Z] [INFO] plugin cryndel-welcome {"args":["активирован, запусков:","2"]}
+[2026-10-22T17:12:43.841Z] [INFO] plugin cryndel-welcome {"args":["выгружен"]}
+[2026-10-22T17:14:22.648Z] [INFO] running storage migrations
+[2026-10-22T17:14:22.828Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:14:22.845Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T17:14:22.988Z] [INFO] Cryndel kernel ready
+[2026-10-22T17:14:24.844Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:14:32.853Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:14:52.859Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:15:52.871Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:16:52.873Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:17:52.881Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:18:52.899Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:19:52.908Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:20:47.606Z] [INFO] running storage migrations
+[2026-10-22T17:20:47.749Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:20:47.761Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T17:20:47.870Z] [INFO] Cryndel kernel ready
+[2026-10-22T17:20:49.761Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:20:57.766Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:21:17.779Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:22:17.792Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:22:39.235Z] [INFO] running storage migrations
+[2026-10-22T17:22:39.362Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:22:39.481Z] [INFO] Cryndel kernel ready
+[2026-10-22T17:22:39.375Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T17:22:41.377Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:22:49.383Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:23:09.385Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:24:09.399Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:25:09.406Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:26:09.414Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:27:09.462Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:28:09.467Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:29:09.473Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:30:09.483Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:31:09.489Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:32:09.504Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:33:09.508Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:34:09.520Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:35:09.522Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:36:09.538Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:37:09.551Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:38:09.568Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:39:09.583Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:40:09.590Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:41:09.601Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:42:50.058Z] [INFO] running storage migrations
+[2026-10-22T17:42:50.253Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:42:50.403Z] [INFO] Cryndel kernel ready
+[2026-10-22T17:42:50.267Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T17:42:52.270Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:43:00.279Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:43:20.284Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:44:20.297Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:45:20.303Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:46:20.308Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:47:20.321Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:48:20.323Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:49:20.332Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:50:20.334Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:51:20.349Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:52:20.353Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:53:20.361Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:53:54.326Z] [INFO] inbox saved {"dest":"C:\\Users\\ASUS\\AppData\\Roaming\\cryndel-launcher\\cryndel\\CL-Downloads\\мега_супер_дупер_ахуенная_сборочка (2).zip"}
+[2026-10-22T17:53:57.620Z] [INFO] placed mod {"instanceId":"i-3f593e3d","filename":"cryem.jar"}
+[2026-10-22T17:53:59.340Z] [INFO] placed mod {"instanceId":"i-3f593e3d","filename":"Cryopt-1.21.11.jar"}
+[2026-10-22T17:54:20.377Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:55:20.379Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:56:20.382Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:57:20.392Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:58:20.399Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T17:59:20.401Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:00:20.406Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:01:20.418Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:02:20.435Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:03:20.445Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:04:20.450Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:05:20.465Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:06:20.468Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:07:20.477Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:08:20.479Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:09:20.488Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:10:20.492Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:11:20.500Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:12:20.508Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:16:51.216Z] [INFO] running storage migrations
+[2026-10-22T18:16:51.378Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:16:51.390Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T18:16:51.497Z] [INFO] Cryndel kernel ready
+[2026-10-22T18:16:53.390Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:01.392Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:21.402Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:26.647Z] [INFO] running storage migrations
+[2026-10-22T18:17:26.793Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:26.810Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T18:17:26.922Z] [INFO] Cryndel kernel ready
+[2026-10-22T18:17:28.811Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:36.816Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:17:56.823Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:56:31.705Z] [INFO] running storage migrations
+[2026-10-22T18:56:31.878Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:56:32.025Z] [INFO] Cryndel kernel ready
+[2026-10-22T18:56:31.893Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T18:56:33.893Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:56:41.909Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:57:01.912Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:58:01.913Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T18:59:01.926Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:00:01.928Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:11:47.643Z] [INFO] running storage migrations
+[2026-10-22T19:11:47.800Z] [ERROR] boot failed {"message":"ENOTDIR, not a directory","stack":"Error: ENOTDIR, not a directory\n    at createError (node:electron/js2c/node_init:2:1643)\n    at Object.<anonymous> (node:electron/js2c/node_init:2:12384)\n    at C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:9:12\n    at new Promise (<anonymous>)\n    at Object.mkdir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:7:14)\n    at module.exports.makeDir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\fs-extra\\lib\\mkdirs\\make-dir.js:14:13)\n    at Object.<anonymous> (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:18:45)\n    at SoundForge.ensure (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\managers\\sound-manager.js:197:14)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\main.js:113:18)"}
+[2026-10-22T19:12:31.481Z] [INFO] running storage migrations
+[2026-10-22T19:12:31.502Z] [ERROR] boot failed {"message":"ENOTDIR, not a directory","stack":"Error: ENOTDIR, not a directory\n    at createError (node:electron/js2c/node_init:2:1643)\n    at Object.<anonymous> (node:electron/js2c/node_init:2:12384)\n    at C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:9:12\n    at new Promise (<anonymous>)\n    at Object.mkdir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:7:14)\n    at module.exports.makeDir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\fs-extra\\lib\\mkdirs\\make-dir.js:14:13)\n    at Object.<anonymous> (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:18:45)\n    at SoundForge.ensure (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\managers\\sound-manager.js:197:14)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\main.js:113:18)"}
+[2026-10-22T19:12:57.107Z] [INFO] running storage migrations
+[2026-10-22T19:12:57.127Z] [ERROR] boot failed {"message":"ENOTDIR, not a directory","stack":"Error: ENOTDIR, not a directory\n    at createError (node:electron/js2c/node_init:2:1643)\n    at Object.<anonymous> (node:electron/js2c/node_init:2:12384)\n    at C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:9:12\n    at new Promise (<anonymous>)\n    at Object.mkdir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:7:14)\n    at module.exports.makeDir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\fs-extra\\lib\\mkdirs\\make-dir.js:14:13)\n    at Object.<anonymous> (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:18:45)\n    at SoundForge.ensure (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\managers\\sound-manager.js:197:14)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\main.js:113:18)"}
+[2026-10-22T19:14:28.050Z] [INFO] running storage migrations
+[2026-10-22T19:14:28.375Z] [INFO] Cryndel kernel ready
+[2026-10-22T19:14:28.237Z] [INFO] live nick ws listening {"port":21999}
+[2026-10-22T19:14:28.223Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:14:30.235Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:14:38.250Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:14:58.258Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:15:27.777Z] [INFO] running storage migrations
+[2026-10-22T19:15:27.800Z] [ERROR] boot failed {"message":"ENOTDIR, not a directory","stack":"Error: ENOTDIR, not a directory\n    at createError (node:electron/js2c/node_init:2:1643)\n    at Object.<anonymous> (node:electron/js2c/node_init:2:12384)\n    at C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:9:12\n    at new Promise (<anonymous>)\n    at Object.mkdir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:7:14)\n    at module.exports.makeDir (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\fs-extra\\lib\\mkdirs\\make-dir.js:14:13)\n    at Object.<anonymous> (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\node_modules\\universalify\\index.js:18:45)\n    at SoundForge.ensure (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\managers\\sound-manager.js:197:14)\n    at CryndelKernel.boot (C:\\Users\\ASUS\\AppData\\Local\\Programs\\Cryndel Launcher\\resources\\app.asar\\electron\\main.js:113:18)"}
+[2026-10-22T19:15:58.262Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:16:58.278Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:17:58.295Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:18:58.308Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:19:58.324Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
+[2026-10-22T19:20:58.339Z] [DEBUG] discord rpc login failed {"message":"Could not connect"}
